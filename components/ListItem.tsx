@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import Image from "next/image"
-import {FaPlay} from "react-icons/fa"
+import { FaPlay } from "react-icons/fa"
 
 interface ListItemProps {
     image: string;
@@ -25,6 +25,7 @@ const ListItem: React.FC<ListItemProps> = ({
 
     return (
         <button
+            onClick={onClick}
             className="
                 relative
                 group
@@ -46,7 +47,7 @@ const ListItem: React.FC<ListItemProps> = ({
                     min-w-[64px]
                 "
             >
-                <Image 
+                <Image
                     className="object-cover"
                     fill
                     src={image}
@@ -57,7 +58,7 @@ const ListItem: React.FC<ListItemProps> = ({
                 {name}
             </p>
             <div
-                onClick={onClick}
+
                 className="
                     absolute
                     transition
@@ -74,7 +75,7 @@ const ListItem: React.FC<ListItemProps> = ({
                     hover:scale-110
                 "
             >
-                <FaPlay className="text-black"/>
+                <FaPlay className="text-black" />
             </div>
         </button>
     )
