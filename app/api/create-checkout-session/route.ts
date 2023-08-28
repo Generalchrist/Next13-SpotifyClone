@@ -3,7 +3,7 @@ import { cookies } from "next/headers";
 import { NextResponse } from 'next/server';
 
 import { stripe } from '@/libs/stripe';
-import { getUrl } from '@/libs/helpers';
+import { getURL } from '@/libs/helpers';
 import { createOrRetrieveCustomer } from '@/libs/supabaseAdmin';
 
 export async function POST(
@@ -36,11 +36,11 @@ export async function POST(
       mode: 'subscription',
       allow_promotion_codes: true,
       subscription_data: {
-        trial_from_plan: true,
+        // trial_from_plan: true,
         metadata
       },
-      success_url: `${getUrl()}/account`,
-      cancel_url: `${getUrl()}/`
+      success_url: `${getURL()}/account`,
+      cancel_url: `${getURL()}/`
     });
 
     return NextResponse.json({ sessionId: session.id });
