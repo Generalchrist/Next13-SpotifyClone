@@ -41,25 +41,21 @@ Here're some of the project's best features:
 
 ```
 $ git clone https://github.com/yourusername/spotify-clone.git 
-```
-
-```
 $ cd spotify-clone
 ```
 
-<p>3. Install dependencies:</p>
+<p>2. Install dependencies:</p>
 
 ```
 $ npm install
 ```
 
-<p>4. Start the development server:</p>
+<p>3. Start the development server:</p>
 
 ```
 $ npm run dev
 ```
 
-<h2>🍰 Contribution Guidelines:</h2>
 
   
   
