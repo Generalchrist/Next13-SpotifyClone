@@ -12,17 +12,17 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/tRjVbZ8.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.imgur.com/tRjVbZ8.png" alt="project-screenshot" width="900" height="400/">
 
-<img src="https://i.imgur.com/OfAttMr.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.imgur.com/OfAttMr.png" alt="project-screenshot" width="900" height="400/">
 
-<img src="https://i.imgur.com/yhAvvQF.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.imgur.com/yhAvvQF.png" alt="project-screenshot" width="900" height="400/">
 
-<img src="https://i.imgur.com/stPrROn.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.imgur.com/stPrROn.png" alt="project-screenshot" width="900" height="400/">
 
-<img src="https://i.imgur.com/lpVPeT9.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.imgur.com/lpVPeT9.png" alt="project-screenshot" width="900" height="400/">
 
-<img src="https://i.imgur.com/79xlWhr.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.imgur.com/79xlWhr.png" alt="project-screenshot" width="900" height="400/">
 
   
   
