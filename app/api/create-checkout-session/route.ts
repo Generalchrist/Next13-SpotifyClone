@@ -6,6 +6,8 @@ import { stripe } from '@/libs/stripe';
 import { getUrl } from '@/libs/helpers';
 import { createOrRetrieveCustomer } from '@/libs/supabaseAdmin';
 
+
+
 export async function POST(
   request: Request
 ) {
