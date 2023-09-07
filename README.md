@@ -12,7 +12,7 @@
 
 ## Project Showcase
 
-Take a visual tour of our project through these captivating screenshots:
+Take a visual tour of the project through these captivating screenshots:
 
 ### 🏠 Home Page
 ![Home Page](https://i.imgur.com/tRjVbZ8.png)
