@@ -11,18 +11,26 @@
 [https://next13-spotify-clone.vercel.app/](https://next13-spotify-clone.vercel.app/)
 
 <h2>Project Screenshots:</h2>
-
+-Home Page
 <img src="https://i.imgur.com/tRjVbZ8.png" alt="project-screenshot" width="900" height="400/">
-
+-Login Modal
 <img src="https://i.imgur.com/OfAttMr.png" alt="project-screenshot" width="900" height="400/">
-
+-Liked Songs Playlist
 <img src="https://i.imgur.com/yhAvvQF.png" alt="project-screenshot" width="900" height="400/">
-
+-Only For Subscribers Modal
+<img src="https://i.imgur.com/OVjGXNL.png" alt="project-screenshot" width="900" height="400/">
+-Subscription Transaction
+<img src="https://i.imgur.com/1RlCyyq.png" alt="project-screenshot" width="900" height="400/">
+-Add Song Modal
 <img src="https://i.imgur.com/stPrROn.png" alt="project-screenshot" width="900" height="400/">
-
+-Search Section
 <img src="https://i.imgur.com/lpVPeT9.png" alt="project-screenshot" width="900" height="400/">
-
+-Account Details
 <img src="https://i.imgur.com/79xlWhr.png" alt="project-screenshot" width="900" height="400/">
+-Customer Portal
+<img src="https://i.imgur.com/sdRovgL.png" alt="project-screenshot" width="900" height="400/">
+-Cancel Subscription
+<img src="https://i.imgur.com/MvHzEUG.png" alt="project-screenshot" width="900" height="400/">
 
   
   
